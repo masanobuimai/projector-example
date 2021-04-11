@@ -9,4 +9,5 @@ Projector本体やIntelliJ、IntelliJからダウンロードするJDKやプラ�
 - Macで使っててもProjectorはLinux上で動いているからキーマップはWin/Linux系になる
 - Tool WindowをWindowモードにしてもProjectorの枠から出れない
 - 日本語が入力できない（ホスト側からコピペはできる）
+- 今の方向だとVSCodeみたく .devcontainerフォルダ作って、みんなで共有とはならなそう
 
